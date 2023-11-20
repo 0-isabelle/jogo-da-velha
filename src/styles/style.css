@@ -17,3 +17,8 @@
         cursor:pointer;
         color: 00BFFF;
    }
+
+    .gamer, .winner{
+        font-size:30px;
+         margin-top: 10px;
+    }
