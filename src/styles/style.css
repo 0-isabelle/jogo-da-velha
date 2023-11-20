@@ -3,7 +3,7 @@
 body {
     text-align: center;
     font-family: 'Roboto';
-    background-color: #a1a8ab;
+    background-color: F0F8FF;
 }
 
 .square {
@@ -15,7 +15,7 @@ body {
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color: #eee;
+    color: F0F8FF;
 }
 
 .gamer, .winner {
@@ -27,7 +27,7 @@ button {
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: #eee;
+    background: F0F8FF;
     cursor: pointer;
 }
 
